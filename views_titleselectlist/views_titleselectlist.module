@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * @file
+ * View Node Title Select list filter
+ *
+ */
+
+function views_titleselectlist_views_api() {
+  return array(
+    'api' => 3,
+  );
+}
+

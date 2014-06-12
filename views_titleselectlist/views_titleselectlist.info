@@ -1,0 +1,8 @@
+name = Views Title Select List
+description = Adds a new Node Title multiselect list filter.
+core = 7.x
+dependencies[] = views
+package = Custom
+
+; Views handlers
+files[] = titleselectlist_handler_filter_nodetitleselectlist.inc
